@@ -89,7 +89,7 @@
 				</a>
 			</h6>
 		</div>
-		<div class="col-sm google-review-logo"><a title="See Our Google Reviews" href="https://search.google.com/local/writereview?placeid=ChIJh1UZvox5D4gRzbNKJhVNdqA" target="_blank"><img alt="Google Reviews Logo" src="/assets/images/google-reviews-logo.png"></a></div>
+		<div class="col-sm google-review-logo"><a title="See Our Google Reviews" href="https://search.google.com/local/writereview?placeid=ChIJIXeLG8yBD4gRFo9KjDC6aDA" target="_blank"><img alt="Google Reviews Logo" src="/assets/images/google-reviews-logo.png"></a></div>
 	</div>
 	<hr>
 	<div class="row justify-content-between bottom">

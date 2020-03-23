@@ -29,7 +29,7 @@
 
 <section class="why-us-section">
         <Divider>
-            <h2>Why A+ Rooter</h2>
+            <h2>Why Choose A+ Rooter Inc.,  Plumbing Sewer and Drain</h2>
         </Divider>
     <div class="container">
         <div class="row">
