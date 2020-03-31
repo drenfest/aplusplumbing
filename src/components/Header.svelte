@@ -62,7 +62,7 @@
 
 <header class="container  text-center">
 	<div class="row justify-content-between top">
-		<div class="col-sm logo"><a title="Link To Homepage" href="/"><img alt="A+ Rooter Logo" src="/assets/images/logo.png"></a></div>
+		<div class="col-sm logo"><a title="Link To Homepage" href="/"><img alt="A+ Rooter Inc. Logo" src="/assets/images/logo.png"></a></div>
 		<div class="col-sm middle">
 			<div class="flex-column justify-content-center">
 				<p class="header-support">

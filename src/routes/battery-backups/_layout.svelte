@@ -9,7 +9,7 @@
 <Hero
         heroImage="/assets/images/heros/seepage-tile.jpg"
         heroTitle="Sump Pump Battery Backups"
-        heroBigText="A+ Rooter"
+        heroBigText="A+ Rooter Inc."
         heroText="Your Top Rated Battery Backup Repair & Installation Company">
     <p>We install, repair and replace sump pump battery backups for homeowners throughout Chicagolad. Over 30yrs experience, friendly service and low prices.</p>
     <a class="btn btn-light" href="/contact" title="Schedule Hvac Repair Or Hvac Installation Service">Schedule Service Now</a>

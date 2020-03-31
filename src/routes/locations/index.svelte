@@ -9,7 +9,7 @@ import Locations from '../../components/Locations.svelte'
 
 <svelte:head>
 	<title>Locations Served</title>
-	<meta name="description" content="A+ Rooter Plumbing Services Locations Served">
+	<meta name="description" content="A+ Rooter Inc. Plumbing Services Locations Served">
 </svelte:head>
 <h2>Locations Served</h2>
 <Locations></Locations>

@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Oswald:300,400,500,600,700 &display=swap');
 @import url('https://fonts.googleapis.com/css?family=Quattrocento:400,700 &display=swap');
 :root{
-    --primary-color: #202d41;
-    --primary: #202d41;
+    --primary-color: #001371;
+    --primary: #001371;
     --primary-light: #34597f;
     --secondary: #ffffff;
-    --success: #c01d1d;
+    --success: #202d41;
     --info: #17a2b8;
     --warning: #ffc107;
     --danger: #c01d1d;
@@ -20,7 +20,7 @@ html{
     overflow-x:hidden;
 }
 a{
-    color:var(--primary-color);
+    color:var(--danger);
     font-style:italic;
 }
 h1,  h2, h3, h4, h5, h6 {
@@ -84,9 +84,7 @@ div#nn-review-map-main {
     display:none;
 }
 
-.divider > .container > *{
-      color:#ffffff!important;
-}
+
 .subpage section.content{
     padding: 2rem 1rem;
 }

@@ -4,8 +4,8 @@
 <style>
 </style>
 <svelte:head>
-	<title> Sewer and Drain - A+ Rooter Plumbing</title>
-	<meta name="description" content="At A+ Rooter, we use the most up to date sewer & drain technology to clean, repair, and locate your sewer & drain problems.">
+	<title> Sewer and Drain - A+ Rooter Inc. Plumbing</title>
+	<meta name="description" content="At A+ Rooter Inc., we use the most up to date sewer & drain technology to clean, repair, and locate your sewer & drain problems.">
 </svelte:head>
 <h2>Sewer & Drain</h2>
 <h3>Let us clean or install your new sewer line</h3>

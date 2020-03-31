@@ -1,6 +1,6 @@
 <script>
-
 </script>
+
 <style>
     .grid{
         display:grid;
@@ -54,6 +54,7 @@
         }
     }
 </style>
+
 <section class="services-grid">
     <div class="container">
         <div class="grid">

@@ -9,7 +9,7 @@
 <Hero
         heroImage="/assets/images/heros/seepage-tile.jpg"
         heroTitle="Seepage Tile"
-        heroBigText="A+ Rooter"
+        heroBigText="A+ Rooter Inc."
         heroText="Seepage tile installation and services">
     <p>Seepage tiles and foundation drainage tile systems are one of the most important aspects of residential plumbing and sewer. Drain tile systems are also one of the most misunderstood aspects. These systems are usually buried and cannot be easily modified or corrected, it is very important that they are installed correctly.</p>
     <a class="btn btn-light" href="/contact" title="Schedule Hvac Repair Or Hvac Installation Service">Schedule Service Now</a>

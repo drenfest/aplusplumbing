@@ -9,7 +9,7 @@
 
 <svelte:head>
 	<title>Seepage Tile</title>
-	<meta name="description" content="A+ Rooter inspects seepage tile – the pipework around the perimeter of your property’s foundation">
+	<meta name="description" content="A+ Rooter Inc. inspects seepage tile – the pipework around the perimeter of your property’s foundation">
 </svelte:head>
 
 <h2>Seepage Tile</h2>

@@ -11,7 +11,7 @@
         heroTitle="Camera Location Services"
         heroBigText="Camera Inspection"
         heroText="Your Top Rated Sewer & Drain Repair Company">
-    <p>A+ Rooter Plumbing are skilled at using camera inspection to and identify your sewer and drain problems. With this technology it empowers us to inspect and accurately ascertain the condition of your sewer line.</p>
+    <p>A+ Rooter Inc. Plumbing are skilled at using camera inspection to and identify your sewer and drain problems. With this technology it empowers us to inspect and accurately ascertain the condition of your sewer line.</p>
     <a class="btn btn-light" href="/contact" title="Schedule Camera Inspection Service Now">Schedule Service Now</a>
 </Hero>
 <div class="container">

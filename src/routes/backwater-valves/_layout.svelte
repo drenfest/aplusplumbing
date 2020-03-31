@@ -9,7 +9,7 @@
 <Hero
         heroImage="/assets/images/heros/seepage-tile.jpg"
         heroTitle="Backwater valves | Backflow Prevention"
-        heroBigText="A+ Rooter"
+        heroBigText="A+ Rooter Inc."
         heroText="Your Top Rated Backwater Valve Installation & Repair Company">
     <a class="btn btn-light" href="/contact" title="Schedule Hvac Repair Or Hvac Installation Service">Schedule Service Now</a>
 </Hero>

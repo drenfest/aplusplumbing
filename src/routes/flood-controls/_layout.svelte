@@ -9,9 +9,9 @@
 <Hero
         heroImage="/assets/images/heros/seepage-tile.jpg"
         heroTitle="Flood Control"
-        heroBigText="A+ Rooter"
+        heroBigText="A+ Rooter Inc."
         heroText="Flood control systems">
-    <p>A+ Rooter Plumbing flood control experts can help you understand all of your options and determine which option is best for you.</p>
+    <p>A+ Rooter Inc. Plumbing flood control experts can help you understand all of your options and determine which option is best for you.</p>
     <a class="btn btn-light" href="/contact" title="Schedule Hvac Repair Or Hvac Installation Service">Schedule Service Now</a>
 </Hero>
 <div class="container">

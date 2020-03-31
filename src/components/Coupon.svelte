@@ -40,6 +40,6 @@
         <h2 class="card-title">{couponPrice}</h2>
         <h3 class="card-subtitle">{couponTitle} <br> {couponSubtitle}</h3>
         <p class="card-text">{couponText}</p>
-        <img alt="A+ Rooter Logo" src="/assets/images/logo.png">
+        <img alt="A+ Rooter Inc. Logo" src="/assets/images/logo.png">
     </div>
 </div>

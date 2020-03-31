@@ -8,12 +8,12 @@
 </style>
 
 <svelte:head>
-	<title>Plumbing Services - A+ Rooter Plumbing</title>
-	<meta name="description" content="Residential and Commercial Plumbing Services Whether your home or office is having trouble with its plumbing A+ Rooter Plumbing is here to help">
+	<title>Plumbing Services - A+ Rooter Inc. Plumbing</title>
+	<meta name="description" content="Residential and Commercial Plumbing Services Whether your home or office is having trouble with its plumbing A+ Rooter Inc. Plumbing is here to help">
 </svelte:head>
 
 <h2>Plumbing</h2>
-<p>A+ Rooter specializes in restaurants, factories, and commercial buildings. Businesses and Restaurants can call for our free estimates on our maintenance program so you don’t have any unnecessary backups. We can clean lines from 1 1/2 inch to 14 inch main sewer line. Storm basins and parking lot drains. We can do it all.</p>
+<p>A+ Rooter Inc. specializes in restaurants, factories, and commercial buildings. Businesses and Restaurants can call for our free estimates on our maintenance program so you don’t have any unnecessary backups. We can clean lines from 1 1/2 inch to 14 inch main sewer line. Storm basins and parking lot drains. We can do it all.</p>
 <h3>Handling all your repair, replacement, or installation needs</h3>
 <ul>
 	<li>Toilet sales, installation and repair</li>

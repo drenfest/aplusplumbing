@@ -8,8 +8,8 @@
 </style>
 
 <svelte:head>
-	<title>Seepage/Foundation Drains - A+ Rooter Plumbing</title>
-	<meta name="description" content="A+ Rooter inspects seepage tile – the pipework around the perimeter of your property’s foundation">
+	<title>Seepage/Foundation Drains - A+ Rooter Inc. Plumbing</title>
+	<meta name="description" content="A+ Rooter Inc. inspects seepage tile – the pipework around the perimeter of your property’s foundation">
 </svelte:head>
 
 <h2>Seepage Tile</h2>

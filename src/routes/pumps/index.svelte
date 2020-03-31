@@ -8,13 +8,13 @@
 </style>
 
 <svelte:head>
-	<title>Pumps - A+ Rooter Plumbing</title>
-	<meta name="description" content="A+ Rooter installs, and repairs sump & ejector pumps to help keep areas flood free.">
+	<title>Pumps - A+ Rooter Inc. Plumbing</title>
+	<meta name="description" content="A+ Rooter Inc. installs, and repairs sump & ejector pumps to help keep areas flood free.">
 </svelte:head>
 
 <h2>Sump and ejector pump services</h2>
 <h3>Replace or Repair Sump Pump</h3>
-<p>A+ Rooter Plumbing offers repairs, inspections and replacement  services to keep your sump pump working properly to prevent any sort of malfunction in case of a storm.
+<p>A+ Rooter Inc. Plumbing offers repairs, inspections and replacement  services to keep your sump pump working properly to prevent any sort of malfunction in case of a storm.
 	<br>
 	<br>
 
@@ -25,7 +25,7 @@
 	<br>
 	<br>
 	Call our professional plumbing team today we will, repair or replace your broken sump pump, or ejector pump. Our technicians are trained and will set up the proper back-up sump pump or pump system.</p>
-<p>A+ Rooter Plumbing offers the following Sump Pump Services for Residential & Commercial Business in ILLINOIS:</p>
+<p>A+ Rooter Inc. Plumbing offers the following Sump Pump Services for Residential & Commercial Business in ILLINOIS:</p>
 <ul>
 	<li>Sump pump inspection</li>
 	<li>Sump pump testing</li>
@@ -35,4 +35,4 @@
 	<li>Sewer connections as per city code</li>
 	<li>Backup pumps</li>
 </ul>
-<p>A+ Rooter Plumbing has professional technicians with sump pump repair knowledge which can guarantee your sump pump has been fixed correctly in a timely manner.  Call us today <a class="btn btn-primary" href="tel:+1847-838-0406">847-838-0406</a></p>
+<p>A+ Rooter Inc. Plumbing has professional technicians with sump pump repair knowledge which can guarantee your sump pump has been fixed correctly in a timely manner.  Call us today <a class="btn btn-primary" href="tel:+1847-838-0406">847-838-0406</a></p>

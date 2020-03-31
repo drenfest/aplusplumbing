@@ -59,8 +59,8 @@ let formSubmit = function (e) {
 </style>
 
 <svelte:head>
-	<title>Contact A+ Rooter</title>
-	<meta name="description" content="Contact A+ Rooter Sewer & Drain And Get A Free Estimate For Any Of Your Plumbing needs">
+	<title>Contact A+ Rooter Inc.</title>
+	<meta name="description" content="Contact A+ Rooter Inc. Sewer & Drain And Get A Free Estimate For Any Of Your Plumbing needs">
 </svelte:head>
 {#if display === false}
 <form action="" method="post" on:submit|preventDefault={formSubmit}>

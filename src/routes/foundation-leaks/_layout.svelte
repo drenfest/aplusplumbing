@@ -9,9 +9,9 @@
 <Hero
         heroImage="/assets/images/heros/seepage-tile.jpg"
         heroTitle="Foundation Leaks & Window Wells"
-        heroBigText="A+ Rooter"
+        heroBigText="A+ Rooter Inc."
         heroText="Your Top Rated Foundation Leak Repair Company">
-    <p>A+ Rooter inspects your window wells and the pipework around the perimeter of your property’s foundation</p>
+    <p>A+ Rooter Inc. inspects your window wells and the pipework around the perimeter of your property’s foundation</p>
     <a class="btn btn-light" href="/contact" title="Schedule Hvac Repair Or Hvac Installation Service">Schedule Service Now</a>
 </Hero>
 <div class="container">

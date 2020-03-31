@@ -1,5 +1,5 @@
 <script>
-    import Coupon from './Coupon.svelte';
+    import Coupon from '../components/Coupon.svelte';
 </script>
 <style>
     .sidebar-coupons{

@@ -331,11 +331,11 @@
         <div class="row footercontent">
             <div class="col-sm footer1">
                 <div class="footer-phone-numbers">
-                    <h6>Mchenry: <span class="footer-number"> <a class="phone-link btn btn-dark" href="tel:+1-815-344-9344" title="Click Here To Call Now">(815) 344-9344</a></span></h6>
-                    <h6>Lake County: <span class="footer-number"> <a class="phone-link btn  btn-dark"  href="tel:+1-847-838-0406" title="Click Here To Call Now">(847) 838-0406</a></span></h6>
-                    <h6>North Shore: <span class="footer-number"> <a class="phone-link btn btn-dark" href="tel:+1-847-296-9161" title="Click Here To Call Now">(847) 296-9161</a></span></h6>
+                    <h6>Mchenry: <span class="footer-number"> <a class="phone-link btn btn-danger" href="tel:+1-815-344-9344" title="Click Here To Call Now">(815) 344-9344</a></span></h6>
+                    <h6>Lake County: <span class="footer-number"> <a class="phone-link btn  btn-danger"  href="tel:+1-847-838-0406" title="Click Here To Call Now">(847) 838-0406</a></span></h6>
+                    <h6>North Shore: <span class="footer-number"> <a class="phone-link btn btn-danger" href="tel:+1-847-296-9161" title="Click Here To Call Now">(847) 296-9161</a></span></h6>
                 </div>
-                <a class="footer-logo" title="Link To Homepage" href="/"><img alt="A+ Rooter Logo" src="/assets/images/logo.png"></a>
+                <a class="footer-logo" title="Link To Homepage" href="/"><img alt="A+ Rooter Inc. Logo" src="/assets/images/logo.png"></a>
             </div>
             <div class="col-sm footer2">
                 <a rel=prefetch class='footernav-item'  href='about' title="About Us">About Us</a>

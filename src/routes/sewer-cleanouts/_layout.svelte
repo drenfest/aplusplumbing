@@ -9,7 +9,7 @@
 <Hero
         heroImage="/assets/images/heros/seepage-tile.jpg"
         heroTitle="Sewer Cleanouts"
-        heroBigText="A+ Rooter"
+        heroBigText="A+ Rooter Inc."
         heroText="Your Top Rated Sewer & Drain Repair Company">
     <p>Your sewer cleanouts experts. We clear, clean & install sewer/plumbing cleanouts throughout Chicago and all Chicagoland suburbs. Call us 24/7.</p>
     <a class="btn btn-light" href="/contact" title="Schedule Hvac Repair Or Hvac Installation Service">Schedule Service Now</a>

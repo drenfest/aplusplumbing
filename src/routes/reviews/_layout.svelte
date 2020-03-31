@@ -6,7 +6,7 @@
 </style>
 <Hero
         heroImage="/assets/images/heros/plumbing-buzz-words.png"
-        heroTitle="A+ Rooter "
+        heroTitle="A+ Rooter Inc. "
         heroBigText="Reviews"
         heroText="Amazing Reviews From Our Amazing Customers">
     <p>Scroll Down To View Our Reviews</p>
