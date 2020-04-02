@@ -344,13 +344,13 @@
                 <a rel=prefetch class='footernav-item' href='backwater-valves' title="Backwater Valves">Backwater Valves</a>
                 <a rel=prefetch class='footernav-item' href='battery-backups' title="Battery Backups">Battery Backups</a>
                 <a rel=prefetch class='footernav-item' href='camera-video-inspection' title="Camera & Video Inspection Services">Camera Services</a>
+                <a rel=prefetch class='footernav-item' href='drain-cleaning' title="Drain Cleaning">Drain Cleaning</a>
                 <a rel=prefetch class='footernav-item' href='flood-controls' title="Flood Controls">Flood Controls</a>
-                <a rel=prefetch class='footernav-item' href='foundation-leaks' title="Window Wells & Foundation leaks">Foundation Leaks</a>
             </div>
             <div class="col-sm footer3">
+                <a rel=prefetch class='footernav-item' href='foundation-leaks' title="Window Wells & Foundation leaks">Foundation Leaks</a>
                 <a rel=prefetch class='footernav-item' href='hydro-jetting' title="Hydro Jetting">Hydro Jetting</a>
                 <a rel=prefetch class='footernav-item' href='plumbing' title="Plumbing">Plumbing</a>
-                <a rel=prefetch class='footernav-item' href='power-rodding' title="Power Rodding">Power Rodding</a>
                 <a rel=prefetch class='footernav-item' title="Sump Pumps & Ejector Pumps">Pumps</a>
                 <a rel=prefetch class='footernav-item' href='seepage-tile' title="Seepage Tile">Seepage Tile</a>
                 <a rel=prefetch class='footernav-item' href='sewer-cleanouts' title="Sewer Cleanouts">Sewer Cleanouts</a>

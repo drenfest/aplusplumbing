@@ -7,8 +7,8 @@
 
 </style>
 <Hero
-        heroImage="/assets/images/heros/seepage-tile.jpg"
-        heroTitle="Power Rodding"
+        heroImage="/assets/images/heros/drain-cleaning.jpg"
+        heroTitle="Drain Cleaning"
         heroBigText="Sewer & Drain  | Sewer Rodding"
         heroText="Your Top Rated Sewer & Drain Repair Company">
     <p>Are your pipes clogged? We can help.

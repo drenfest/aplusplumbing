@@ -30,7 +30,7 @@
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
-	background-image: url("/assets/images/acnav.jpg");
+	background-image: url("/assets/images/services/menu.jpg");
 	}
 	.dropdown-menu{
 		min-width:600px;
@@ -121,11 +121,11 @@
 							<a rel=prefetch class='dropdown-item {segment === "backwater-valves" ? "active" : ""}' href='backwater-valves' title="Backwater Valves">Backwater Valves</a>
 							<a rel=prefetch class='dropdown-item {segment === "battery-backups" ? "active" : ""}' href='battery-backups' title="Battery Backups">Battery Backups</a>
 							<a rel=prefetch class='dropdown-item {segment === "camera-video-inspection" ? "active" : ""}' href='camera-video-inspection' title="Camera & Video Inspection Services">Camera Services</a>
+							<a rel=prefetch class='dropdown-item {segment === "drain-cleaning" ? "active" : ""}' href='drain-cleaning' title="Drain Cleaning">Drain Cleaning</a>
 							<a rel=prefetch class='dropdown-item {segment === "flood-controls" ? "active" : ""}' href='flood-controls' title="Flood Controls">Flood Controls</a>
 							<a rel=prefetch class='dropdown-item {segment === "foundation-leaks" ? "active" : ""}' href='foundation-leaks' title="Window Wells & Foundation leaks">Foundation Leaks</a>
 							<a rel=prefetch class='dropdown-item {segment === "hydro-jetting" ? "active" : ""}' href='hydro-jetting' title="Hydro Jetting">Hydro Jetting</a>
 							<a rel=prefetch class='dropdown-item {segment === "plumbing" ? "active" : ""}' href='plumbing' title="Plumbing">Plumbing</a>
-							<a rel=prefetch class='dropdown-item {segment === "power-rodding" ? "active" : ""}' href='power-rodding' title="Power Rodding">Power Rodding</a>
 							<a rel=prefetch class='dropdown-item {segment === "pumps" ? "active" : ""}' href='pumps' title="Sump Pumps & Ejector Pumps">Pumps</a>
 							<a rel=prefetch class='dropdown-item {segment === "seepage-tile" ? "active" : ""}' href='seepage-tile' title="Seepage Tile">Seepage Tile</a>
 							<a rel=prefetch class='dropdown-item {segment === "sewer-cleanouts" ? "active" : ""}' href='sewer-cleanouts' title="Sewer Cleanouts">Sewer Cleanouts</a>

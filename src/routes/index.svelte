@@ -19,7 +19,9 @@
 	display:block;
 	text-transform:uppercase;
 	}
-
+	.red{
+		color:var(--danger);
+	}
 	.about-support {
 	font-family: 'Oswald', sans-serif;
 	text-transform:uppercase;
@@ -43,6 +45,9 @@ background: linear-gradient(90deg, rgba(61,84,103,1) 9%, rgba(96,115,130,1) 90%)
 	}
 	.coupon-section{
 		background-image: url(/assets/images/homeaboutbk.jpg);
+		background-size:cover;
+		background-repeat:no-repeat;
+		background-attachment:fixed;
 		padding:3rem 0;
 	}
 	.coupon-section > .container > .row{
@@ -58,6 +63,9 @@ background: linear-gradient(90deg, rgba(61,84,103,1) 9%, rgba(96,115,130,1) 90%)
 	}
 	.specials-button>a:hover{
 		background-color:#711D1D;
+	}
+	.background-wave{
+		margin-top:-50px;
 	}
 	@media screen and (min-width:768px){
 
@@ -101,7 +109,7 @@ background: linear-gradient(90deg, rgba(61,84,103,1) 9%, rgba(96,115,130,1) 90%)
 		<div class="row justify-content-center" style="padding:15px 0 0px;">
 			<div class="row">
 				<div class="col-xs-12 col-sm-6">
-					<h3>Award Winning Plumber - Sewer and Drain Repair Since 1989</h3>
+					<h3 class="red">Award Winning Plumber - Sewer and Drain Repair Since 1989</h3>
 					<h4>We Serve- Antioch, McHenry, Mundelein, Vernon Hills, Waukegan, Crystal Lake and Beyond
 					</h4>
 					<p>A+ Rooter Inc.,  is here to help.  From common problems like leaky faucets and toilets to sewer repair and installation or maybe you have a clogged drain?  A+ Rooter Inc. will quickly diagnose your problem and have you on your way.  We Service residential and commercial, are fully equipped to solve any of your draining problems, big or small, at a price you can afford with the least amount of inconvenience to you.</p>
@@ -113,7 +121,7 @@ background: linear-gradient(90deg, rgba(61,84,103,1) 9%, rgba(96,115,130,1) 90%)
 					</ul>
 				</div>
 					<div class="col-xs-12 col-sm-6">
-						<h3>Why Choose A+ Rooter Inc.,  Plumbing Sewer and Drain</h3>
+						<h3 class="red">Why Choose A+ Rooter Inc.,  Plumbing Sewer and Drain</h3>
 						<p>With over 8 trucks on the road at any given time our plumbers can respond to your emergency fast.  Whether it’s holiday, weekend or 2am our friendly plumbers will be at your doorstep within 90 minutes or less because we realize that’s when you need us most.</p>
 						<p>For years, our goal has been to ensure the complete satisfaction of every customer while offering knowledge and friendly service at affordable rates. We hope that you’ll feel confident in our ability to exceed all of your expectations and know that our customers are always our number one focus.</p>
 						<a class="btn btn-danger text-center" style="display:block;" href="tel:+1847-838-0406" title="Click Here To Call Now ">Call Now! 1-847-838-0406</a>
@@ -121,11 +129,11 @@ background: linear-gradient(90deg, rgba(61,84,103,1) 9%, rgba(96,115,130,1) 90%)
 			</div>
 		</div>
 	</div>
-	<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
-		<path fill="#202d41" fill-opacity="1" d="M0,288L40,277.3C80,267,160,245,240,213.3C320,181,400,139,480,144C560,149,640,203,720,240C800,277,880,299,960,293.3C1040,288,1120,256,1200,224C1280,192,1360,160,1400,144L1440,128L1440,320L1400,320C1360,320,1280,320,1200,320C1120,320,1040,320,960,320C880,320,800,320,720,320C640,320,560,320,480,320C400,320,320,320,240,320C160,320,80,320,40,320L0,320Z"></path>
-	</svg>
 </section>
 <section class="coupon-section">
+	<svg class="background-wave" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+		<path fill="#ffffff" fill-opacity="1" d="M0,288L40,277.3C80,267,160,245,240,213.3C320,181,400,139,480,144C560,149,640,203,720,240C800,277,880,299,960,293.3C1040,288,1120,256,1200,224C1280,192,1360,160,1400,144L1440,128L1440,0L1400,0C1360,0,1280,0,1200,0C1120,0,1040,0,960,0C880,0,800,0,720,0C640,0,560,0,480,0C400,0,320,0,240,0C160,0,80,0,40,0L0,0Z"></path>
+	</svg>
 	<Divider>
 		<h2>Specials</h2>
 	</Divider>

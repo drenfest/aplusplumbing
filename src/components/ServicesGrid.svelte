@@ -28,20 +28,44 @@
     .camera-inspection{
         background-image:url("/assets/images/services/camera-inspection.png");
     }
-    .sump-pump{
-        background-image:url("/assets/images/services/sump-pump.jpg");
+    .pumps{
+        background-image:url("/assets/images/services/sump-pump-square.jpg");
     }
     .power-rodding{
-        background-image:url("/assets/images/services/power-rodding.jpg");
+        background-image:url("/assets/images/services/camera-rodding-square.jpg");
     }
     .hydro-jetting{
         background-image:url("/assets/images/services/hydro-jetting-sewer-line.png");
     }
-    .storm-sewer{
-        background-image:url("/assets/images/services/storm-drain.jpg");
+    .flood-controls{
+        background-image:url("/assets/images/services/flood-controls-square.jpg");
     }
     .seepage-tile{
         background-image:url("/assets/images/services/seepage-tile.jpg");
+    }
+    .sewer-cleanouts{
+        background-image:url("/assets/images/services/sewer-cleanouts-square.jpg");
+    }
+    .sewer-drain-repair{
+        background-image:url("/assets/images/services/sewer-drain-square.jpg");
+    }
+    .plumbing{
+        background-image:url("/assets/images/services/clogged-drain.jpg");
+    }
+    .water-heaters{
+        background-image:url("/assets/images/services/water-heaters-square.jpg");
+    }
+    .battery-backups{
+        background-image:url("/assets/images/services/battery-backup-square.jpg");
+    }
+    .backwater-valves{
+        background-image:url("/assets/images/services/backwater-valve-square.jpg");
+    }
+    .plumbing{
+        background-image:url("/assets/images/services/plumbing-square.jpg");
+    }
+    .foundation-leaks{
+        background-image:url("/assets/images/services/seepage-tile-square.jpg");
     }
     @media screen and (min-width:768px){
         .grid{
@@ -59,13 +83,13 @@
     <div class="container">
         <div class="grid">
             <a class="service backwater-valves" title="Read About Our Backwater Valve Services" href="/backwater-valves">Backwater Valves</a>
-            <a class="service battery-backups" title="Read About Our Battery Backup Services" href="/power-rodding">Battery Backups</a>
+            <a class="service battery-backups" title="Read About Our Battery Backup Services" href="/battery-backups">Battery Backups</a>
             <a class="service camera-inspection" title="Read About Our Camera Locating Services" href="/camera-video-inspection">Camera Location Services</a>
             <a class="service flood-controls" title="Read About Our Flood Control Services" href="/flood-controls">Flood Controls</a>
-            <a class="service foundation-leaks" title="Read About Our Window Wells & Foundation Leaks" href="/sewer-drain-repair">Foundation Leaks</a>
+            <a class="service foundation-leaks" title="Read About Our Window Wells & Foundation Leaks" href="/foundation-leaks">Foundation Leaks</a>
             <a class="service hydro-jetting" title="Read About Our Hydro Jetting Services" href="/hydro-jetting">Hydro Jetting</a>
             <a class="service plumbing" title="Read About Our Plumbing Services" href="/seepage-tile">Plumbing</a>
-            <a class="service power-rodding" title="Read About Our Power Rodding Services" href="/power-rodding">Power Rodding</a>
+            <a class="service power-rodding" title="Read About Our Drain Cleaning Services" href="/drain-cleaning">Drain Cleaning</a>
             <a class="service pumps" title="Read About Our Sump & Ejector Pump Services" href="/pumps">Sump &amp; Ejector Pumps</a>
             <a class="service seepage-tile" title="Read About Our Seepage Tile Services" href="/seepage-tile">Seepage Tile</a>
             <a class="service sewer-cleanouts" title="Read About Our Sewer Cleanout Services" href="/sewer-cleanouts">Sewer Cleanouts</a>

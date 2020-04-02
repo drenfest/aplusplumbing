@@ -7,7 +7,7 @@
 
 </style>
 <Hero
-        heroImage="/assets/images/heros/seepage-tile.jpg"
+        heroImage="/assets/images/heros/clogged-drain.jpg"
         heroTitle="Plumbing Services"
         heroBigText="A+ Rooter Inc."
         heroText="Residential and Commercial Plumbing Services">

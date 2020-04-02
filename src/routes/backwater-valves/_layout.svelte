@@ -7,7 +7,7 @@
 
 </style>
 <Hero
-        heroImage="/assets/images/heros/seepage-tile.jpg"
+        heroImage="/assets/images/heros/backwater-valve.jpg"
         heroTitle="Backwater valves | Backflow Prevention"
         heroBigText="A+ Rooter Inc."
         heroText="Your Top Rated Backwater Valve Installation & Repair Company">

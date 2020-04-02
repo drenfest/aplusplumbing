@@ -114,7 +114,7 @@
     }
     @media screen and (min-width: 1200px){
         .slant-box{
-            left:23.5%;
+            left:11.5%;
         }
         .twenty-four-seven{
             right:20px;

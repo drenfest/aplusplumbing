@@ -7,7 +7,7 @@
 
 </style>
 <Hero
-        heroImage="/assets/images/heros/seepage-tile.jpg"
+        heroImage="/assets/images/heros/sump-pump-setup.jpg"
         heroTitle="Sump & Ejector Pumps"
         heroBigText="A+ Rooter Inc."
         heroText="Sump and ejector pump services">

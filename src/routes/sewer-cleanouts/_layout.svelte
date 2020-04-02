@@ -7,7 +7,7 @@
 
 </style>
 <Hero
-        heroImage="/assets/images/heros/seepage-tile.jpg"
+        heroImage="/assets/images/heros/sewer-cleanouts.jpg"
         heroTitle="Sewer Cleanouts"
         heroBigText="A+ Rooter Inc."
         heroText="Your Top Rated Sewer & Drain Repair Company">

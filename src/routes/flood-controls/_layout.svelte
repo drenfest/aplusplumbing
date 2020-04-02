@@ -7,7 +7,7 @@
 
 </style>
 <Hero
-        heroImage="/assets/images/heros/seepage-tile.jpg"
+        heroImage="/assets/images/heros/flood-controls.jpg"
         heroTitle="Flood Control"
         heroBigText="A+ Rooter Inc."
         heroText="Flood control systems">

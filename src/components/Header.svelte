@@ -41,7 +41,7 @@
 
 	.icons > a > svg {
 	padding:0px 8px;
-		fill: var(--success);
+		fill: var(--danger);
 	}
 	.icons > a:hover > svg {
 		padding:0px 8px;
