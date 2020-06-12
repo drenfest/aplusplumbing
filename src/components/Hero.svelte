@@ -6,14 +6,33 @@
     export let hideHero = false;
 </script>
 <style>
+
+    .waveup2 {
+    z-index:100;
+    position:absolute;
+    bottom:-4px;
+    width:100%;
+    }
     img {
         max-width: none;
     }
+
+
+.grid-container {
+    
+    padding-left:2rem;
+    padding-right:2rem;
+
+}
+
     #hero-section{
         position:relative;
         overflow:hidden;
         background-color:var(--primary-color);
-        padding: 5rem 2rem;
+        padding: 5rem 0rem;
+          background-repeat: no-repeat;
+         background-size: cover;
+         background-position:center;
 
     }
     #hero-section .grid-container{
@@ -28,9 +47,7 @@
         background-color:var(--primary-color);
         display:flex;
         flex-direction:column;
-        justify-content:center;
-        align-items:center;
-        align-content:center;
+
     }
     .hero-right{
         display:none;
@@ -39,6 +56,9 @@
         margin:0;
         padding:0;
         z-index:1;
+         background-repeat: no-repeat;
+         background-size: cover;
+
     }
     .hero-image{
         max-height:450px;
@@ -52,7 +72,7 @@
         left:23.5%;
         margin:0;
         padding:0;
-        transform: skewX(-30deg);
+        transform: skewX(-10deg);
         width:100%;
         height:100%;
     }
@@ -97,8 +117,15 @@
         align-self:flex-start;
 
         color:white;
+        margin-bottom:20px;
     }
     @media screen and (min-width: 768px){
+.herotextarea {
+    padding-top:5vh;
+    padding-bottom:5vh;
+
+}
+
         #hero-section{
             padding: 0;
         }
@@ -110,6 +137,12 @@
         }
         .slant-box{
             left:37.5%;
+        }
+
+        .hero-left{
+        padding-top:5vh;
+       padding-bottom:5vh;
+
         }
     }
     @media screen and (min-width: 1200px){
@@ -127,12 +160,22 @@
             font-size:35px;
         }
     }
+
+ @media screen and (max-width: 768px){
+ #hero-section{
+background-image:none!important;
+}
+
+
+}
+
 </style>
 {#if !hideHero}
-<section id="hero-section">
+<section id="hero-section" style=" background-image: url('{heroImage}');">
     <div class="grid-container container">
         <div class="hero-left">
             <hr class="slant-box">
+            <div class="herotextarea">
             <h1 class="hero-title">{ heroTitle } <br>
                 <span class="hero-big-text">{ heroBigText }</span>
             </h1>
@@ -141,10 +184,15 @@
             <div class="slotted-content">
                 <slot></slot>
             </div>
+            </div>
         </div>
-        <div class="hero-right">
-            <img class="hero-image" src='{heroImage}' alt="{heroTitle}" />
+        <div class="hero-right" >
         </div>
     </div>
+    <div class="waveup2"><svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+     width="100%" height="auto" viewBox="0 0 1200 43.057" enable-background="new 0 0 1200 43.057" xml:space="preserve">
+<path fill="#FFFFFF" d="M0,43.057V17.704c0,0,113.453-14.887,293.734-14.183S609.227,24.745,752.888,25.45
+    S1091.478,7.747,1200,7.747v34.604L0,43.057z"/>
+</svg> </div>
 </section>
 {/if}

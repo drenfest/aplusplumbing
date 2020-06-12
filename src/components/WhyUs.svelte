@@ -5,9 +5,12 @@
     .why-us-section{
         align-items:center;
         text-align:center;
+        background-color:#dadada;
+        position:relative;
+
     }
     .why-us-section > .container{
-        padding:4rem 2rem 0rem 2rem;
+        padding:2rem rem 0rem 2rem;
     }
     .why-us-section h3{
         font-weight:normal;
@@ -28,7 +31,11 @@
 </style>
 
 <section class="why-us-section">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#202d41" fill-opacity="1" d="M0,288L40,277.3C80,267,160,245,240,213.3C320,181,400,139,480,144C560,149,640,203,720,240C800,277,880,299,960,293.3C1040,288,1120,256,1200,224C1280,192,1360,160,1400,144L1440,128L1440,0L1400,0C1360,0,1280,0,1200,0C1120,0,1040,0,960,0C880,0,800,0,720,0C640,0,560,0,480,0C400,0,320,0,240,0C160,0,80,0,40,0L0,0Z"></path></svg>
+<div class="wavedown2"><svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+     width="100%" height="auto" viewBox="0 0 1200 43.057" enable-background="new 0 0 1200 43.057" xml:space="preserve">
+<path fill="#FFFFFF" d="M1200-1v25.353c0,0-113.453,14.887-293.734,14.183S590.773,17.312,447.112,16.606S108.522,34.31,0,34.31
+    V-0.295L1200-1z"/>
+</svg> </div>
         <Divider>
             <h2>Why Choose A+ Rooter Inc.,  Plumbing Sewer and Drain</h2>
         </Divider>
@@ -66,7 +73,9 @@
             </div>
         </div>
     </div>
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
-        <path fill="#202d41" fill-opacity="1" d="M0,288L40,277.3C80,267,160,245,240,213.3C320,181,400,139,480,144C560,149,640,203,720,240C800,277,880,299,960,293.3C1040,288,1120,256,1200,224C1280,192,1360,160,1400,144L1440,128L1440,320L1400,320C1360,320,1280,320,1200,320C1120,320,1040,320,960,320C880,320,800,320,720,320C640,320,560,320,480,320C400,320,320,320,240,320C160,320,80,320,40,320L0,320Z"></path>
-    </svg>
+     <div class="waveup2"><svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+     width="100%" height="auto" viewBox="0 0 1200 43.057" enable-background="new 0 0 1200 43.057" xml:space="preserve">
+<path fill="#FFFFFF" d="M0,43.057V17.704c0,0,113.453-14.887,293.734-14.183S609.227,24.745,752.888,25.45
+    S1091.478,7.747,1200,7.747v34.604L0,43.057z"/>
+</svg> </div>
 </section>

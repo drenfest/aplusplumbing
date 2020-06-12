@@ -7,7 +7,7 @@
 
 </style>
 <Hero
-        heroImage="/assets/images/services/battery-backup-square.jpg"
+        heroImage="/assets/images/heros/battery-backups.jpg"
         heroTitle="Sump Pump Battery Backups"
         heroBigText="A+ Rooter Inc."
         heroText="Your Top Rated Battery Backup Repair & Installation Company">
