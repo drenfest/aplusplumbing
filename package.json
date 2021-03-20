@@ -1,6 +1,6 @@
 {
-  "name": "aplusrooter",
-  "description": "aplusrooter",
+  "name": "wallyplumbing",
+  "description": "wallyplumbing",
   "version": "0.0.1",
   "scripts": {
     "dev": "sapper dev",
